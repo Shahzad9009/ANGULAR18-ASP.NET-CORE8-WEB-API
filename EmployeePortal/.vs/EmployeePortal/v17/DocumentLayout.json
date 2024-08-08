@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|c:\\users\\shahzad\\desktop\\angular \u002B asp.net core web api\\employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|c:\\users\\shahzad\\desktop\\angular \u002B asp.net core web api\\employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|c:\\users\\shahzad\\desktop\\angular \u002B asp.net core web api\\employeeportal\\repository\\eployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|solutionrelative:repository\\eployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|c:\\users\\shahzad\\desktop\\angular \u002B asp.net core web api\\employeeportal\\migrations\\20240716174206_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|solutionrelative:migrations\\20240716174206_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|c:\\users\\shahzad\\desktop\\angular \u002B asp.net core web api\\employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|c:\\users\\shahzad\\desktop\\angular \u002B asp.net core web api\\employeeportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|c:\\users\\shahzad\\desktop\\angular \u002B asp.net core web api\\employeeportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CC708-EE2D-4CBF-AC60-4FAB1BA2ED9F}|EmployeePortal.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240716174206_Initial Setup.cs",
+              "DocumentMoniker": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Migrations\\20240716174206_Initial Setup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240716174206_Initial Setup.cs",
+              "ToolTip": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Migrations\\20240716174206_Initial Setup.cs",
+              "RelativeToolTip": "Migrations\\20240716174206_Initial Setup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:42:08.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvycAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:13:16.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Repository\\EployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EployeeRepository.cs",
+              "ToolTip": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Repository\\EployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EployeeRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwDAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:20:43.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:48:30.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T15:37:28.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:28:13.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SHAHZAD\\Desktop\\ANGULAR \u002B ASP.NET CORE WEB API\\EmployeePortal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:28:47.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
